@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://tomtris.github.io/EcoFitSipHHN/sitemap.xml
